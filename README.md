@@ -1,4 +1,4 @@
-# 🐾 Testes de API com Apache JMeter — Pets API
+# Testes de API com Apache JMeter — Pets API
 
 ##  Sobre o projeto
 
@@ -100,7 +100,7 @@ jmeter -n -t pets-api-tests.jmx -l results/test-results.jtl
 
 Crie a pasta `results/` antes da execução.
 
-## 📊 Relatórios e métricas
+## Relatórios e métricas
 
 O projeto utiliza recursos do JMeter para acompanhar o comportamento das requisições durante os testes.
 
@@ -124,13 +124,13 @@ A pasta de destino do relatório deve estar vazia ou ainda não existir.
 
 Os resultados de execução devem ser armazenados em `results/` e os relatórios gerados em `reports/`.
 
-## 🔐 Autenticação e segurança
+## Autenticação e segurança
 
 O plano utiliza credenciais públicas de teste e realiza a autenticação para obter um token, utilizado nas requisições que exigem autorização.
 
 Não devem ser publicados tokens reais, senhas privadas ou informações sensíveis.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Este projeto permite colocar em prática conhecimentos relacionados a:
 
