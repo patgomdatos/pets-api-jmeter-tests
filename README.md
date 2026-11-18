@@ -141,6 +141,6 @@ Este projeto permite colocar em prática conhecimentos relacionados a:
 - Configuração de modelos de carga.
 - Análise de métricas e relatórios.
 
-## 👩‍💻 Autoria
+## Autoria
 
 Projeto desenvolvido para estudos e prática de testes de API e performance com Apache JMeter.
